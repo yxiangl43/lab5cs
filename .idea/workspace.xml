@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61ed3562-34d9-453c-b0db-7d977e892ebf" name="Default Changelist" comment="" />
+    <list default="true" id="61ed3562-34d9-453c-b0db-7d977e892ebf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +21,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SvsY6E7T5l1cd1aqG0flvRxwHH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -54,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FahrenheitTest">
+  <component name="RunManager" selected="JUnit.CelsiusTest">
     <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.temperature.TemperatureConverter" />
       <module name="Porject110" />
@@ -100,8 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FahrenheitTest" />
         <item itemvalue="JUnit.CelsiusTest" />
+        <item itemvalue="JUnit.FahrenheitTest" />
         <item itemvalue="Application.TemperatureConverter" />
       </list>
     </recent_temporary>
@@ -117,12 +126,23 @@
       <option name="presentableId" value="Default" />
       <updated>1572455447713</updated>
       <workItem from="1572455449241" duration="1523000" />
-      <workItem from="1572457000156" duration="1555000" />
+      <workItem from="1572457000156" duration="1641000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
